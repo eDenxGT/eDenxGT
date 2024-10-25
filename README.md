@@ -38,7 +38,7 @@ I'm always excited to collaborate on:
 
 ## 📫 How to Reach Me
 - **Email:** [edenxgt@gmail.com](mailto:edenxgt@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/))
+- **LinkedIn:** [https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/]
 
 ---
 
