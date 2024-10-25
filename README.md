@@ -4,10 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for creati
 
 ---
 
-## 🚀 About Me
-
 ## ✨ Favorite Quote
-"Talk is cheap. Show me the code." – Linus Torvalds
+> **"Talk is cheap. Show me the code."**  
+> – *Linus Torvalds*
+
+---
+
+## 🚀 About Me
 
 - **🌐 MERN Stack Developer:** Skilled in **MongoDB**, **Express.js**, **React**, and **Node.js**, I build responsive and scalable full-stack applications.
 - **🎮 SA-MP Developer & PAWN Scripting Expert:** Highly experienced in **PAWN scripting** to enhance and customize gameplay in **San Andreas Multiplayer (SA-MP)**.
@@ -46,14 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for creati
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eDenxGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&layout=compact&theme=radical)
-
-![Contribution Graph](https://github.com/eDenxGT/eDenxGT/raw/main/contributions.svg)
-
-## 🛠 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
 
 ---
 
