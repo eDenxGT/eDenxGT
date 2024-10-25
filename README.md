@@ -1,4 +1,4 @@
-# 👋 Hey, I'm @eDenxGT or Aadil.
+# 👋 Hey, I'm @eDenxGT or Aadil
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for creating dynamic web applications and immersive game scripts. Here’s a bit about me and what you can expect from my repos!
 
