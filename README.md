@@ -48,8 +48,7 @@ I'm always excited to collaborate on:
 ---
 
 ### ⚡ Fun Facts
-- I love playing games and driving cars in my free time!
-- When I’m not coding, you can find me on the football field or exploring game development on various platforms.
+- When I’m not coding, you can find me playing games or exploring game development on various platforms.
 
 <!---
 eDenxGT/eDenxGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
