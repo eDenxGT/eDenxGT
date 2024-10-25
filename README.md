@@ -1,12 +1,6 @@
-# 👋 Hey, I'm @eDenxGT (Aadil)
+# 👋 Hey, I'm @eDenxGT or Aadil.
 
 Welcome to my GitHub profile! I'm a passionate developer with a knack for creating dynamic web applications and immersive game scripts. Here’s a bit about me and what you can expect from my repos!
-
----
-
-## ✨ Favorite Quote
-> **"Talk is cheap. Show me the code."**  
-> – *Linus Torvalds*
 
 ---
 
@@ -57,6 +51,12 @@ I'm always excited to collaborate on:
 - **Full-Stack Web Projects** with a focus on MERN stack.
 - **SA-MP Game Modifications** that push the boundaries of what’s possible in PAWN scripting.
 - **Open Source Projects** where I can contribute my skills and learn from the community.
+
+---
+
+## ✨ Favorite Quote
+> **"Talk is cheap. Show me the code."**  
+> – *Linus Torvalds*
 
 ## 📫 How to Reach Me
 - **Email:** [edenxgt@gmail.com](mailto:edenxgt@gmail.com)
