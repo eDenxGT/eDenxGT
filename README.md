@@ -42,9 +42,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for creati
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eDenxGT&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+## 📊 Most Used Languages
+*Languages displayed are from public repositories only.*
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&layout=compact&theme=radical)
 
 ---
+
 
 ## 🤝 Open to Collaborations
 I'm always excited to collaborate on:
