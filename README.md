@@ -19,62 +19,9 @@
         <br>
     </div>
 </div>
-
-## 🚀 About Me
-
-- **🌐 MERN Stack Developer:** Skilled in **MongoDB**, **Express.js**, **React**, and **Node.js**, I build responsive and scalable full-stack applications.
-- **🎮 SA-MP Developer & PAWN Scripting Expert:** Highly experienced in **PAWN scripting** to enhance and customize gameplay in **San Andreas Multiplayer (SA-MP)**.
-- **💻 JavaScript Pro:** Advanced skills in **JavaScript**, making me efficient in both frontend and backend development.
-- **💾 MySQL User:** Experienced with **MySQL** for robust and optimized database management.
-- **📂 Passionate Learner:** Constantly exploring new technologies to stay sharp and up-to-date with industry trends.
-
-## 👀 Currently Working On
-- Building innovative and user-friendly web projects in the **MERN stack**.
-- Crafting unique game mechanics and features for SA-MP servers with PAWN scripting.
-
-## 🌱 Learning & Improving
-- **Advanced Frontend Techniques** in **React** to improve UI/UX and interactivity.
-- **Game Server Administration** and custom **Minecraft server development**.
-- Diving into **Open Source Projects** for collaboration and community building.
-
----
-
-## 🤝 Open to Collaborations
-I'm always excited to collaborate on:
-- **Full-Stack Web Projects** with a focus on MERN stack.
-- **SA-MP Game Modifications** that push the boundaries of what’s possible in PAWN scripting.
-- **Open Source Projects** where I can contribute my skills and learn from the community.
-
----
-
-## ✨ Favorite Quote
-> **"Talk is cheap. Show me the code."**  
-> – *Linus Torvalds*
-
-## 📫 How to Reach Me
-- **Email:** [edenxgt@gmail.com](mailto:edenxgt@gmail.com)
-- **LinkedIn:** [Mohammed Aadil on LinkedIn](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/)
-- **Discord:** edenxgt.
-
----
-
-### ⚡ Fun Facts
-- When I’m not coding, you can find me playing games or exploring game development on various platforms.
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 💻 LeetCode Stats
-
-[![LeetCode Stats](https://leetcode-stats.happytail.dev/yourusername)](https://leetcode.com/Aadil_Mohammed/)
-
----
-
-<div align="center">
-    <h2><img align="center"
+<div>
+    <div>
+        <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About me</h2>
         <ul>
@@ -89,6 +36,7 @@ I'm always excited to collaborate on:
             <li>📫 How to reach me : <img align="center" src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:edenxgt@gmail.com" target="_blank">edenxgt@gmail.com</a></li>
         </ul>
+    </div>
     <div align="center">
         <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
                 width="40" /> Languages and Tools</h2>
@@ -106,11 +54,21 @@ I'm always excited to collaborate on:
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/aws-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scss-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/three.js-%23800000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
     </div>
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eDenxGT&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eDenxGT&" alt="eDenxGT" width="400" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&hide_title=true&layout=compact&count_private=true" width="400" /><br>
+  <img src="https://leetcard.jacoblin.cool/Aadil_Mohammed?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
 </div>
