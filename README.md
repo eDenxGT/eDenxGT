@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I am eDen x Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <h1>Hi there, I am eDen or Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
@@ -19,7 +19,51 @@
         <br>
     </div>
 </div>
-<div>
+
+## 🚀 About Me
+
+- **🌐 MERN Stack Developer:** Skilled in **MongoDB**, **Express.js**, **React**, and **Node.js**, I build responsive and scalable full-stack applications.
+- **🎮 SA-MP Developer & PAWN Scripting Expert:** Highly experienced in **PAWN scripting** to enhance and customize gameplay in **San Andreas Multiplayer (SA-MP)**.
+- **💻 JavaScript Pro:** Advanced skills in **JavaScript**, making me efficient in both frontend and backend development.
+- **💾 MySQL User:** Experienced with **MySQL** for robust and optimized database management.
+- **📂 Passionate Learner:** Constantly exploring new technologies to stay sharp and up-to-date with industry trends.
+
+## 👀 Currently Working On
+- Building innovative and user-friendly web projects in the **MERN stack**.
+- Crafting unique game mechanics and features for SA-MP servers with PAWN scripting.
+
+## 🌱 Learning & Improving
+- **Advanced Frontend Techniques** in **React** to improve UI/UX and interactivity.
+- **Game Server Administration** and custom **Minecraft server development**.
+- Diving into **Open Source Projects** for collaboration and community building.
+
+---
+
+## 🤝 Open to Collaborations
+I'm always excited to collaborate on:
+- **Full-Stack Web Projects** with a focus on MERN stack.
+- **SA-MP Game Modifications** that push the boundaries of what’s possible in PAWN scripting.
+- **Open Source Projects** where I can contribute my skills and learn from the community.
+
+---
+
+## ✨ Favorite Quote
+> **"Talk is cheap. Show me the code."**  
+> – *Linus Torvalds*
+
+## 📫 How to Reach Me
+- **Email:** [edenxgt@gmail.com](mailto:edenxgt@gmail.com)
+- **LinkedIn:** [Mohammed Aadil on LinkedIn](https://www.linkedin.com/in/mohammed-aadil-mk-37bbba2b1/)
+- **Discord:** edenxgt.
+
+---
+
+### ⚡ Fun Facts
+- When I’m not coding, you can find me playing games or exploring game development on various platforms.
+
+---
+
+<div align="center">
     <div>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
@@ -57,18 +101,5 @@
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/aws-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scss-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/three.js-%23800000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
     </div>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eDenxGT&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eDenxGT&" alt="eDenxGT" width="400" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&hide_title=true&layout=compact&count_private=true" width="400" /><br>
-  <img src="https://leetcard.jacoblin.cool/Aadil_Mohammed?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
 </div>
