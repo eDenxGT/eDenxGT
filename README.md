@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I am eDen or Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <h1>Hi there, I am eDen x Aadil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
@@ -63,9 +63,18 @@ I'm always excited to collaborate on:
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 💻 LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats.happytail.dev/yourusername)](https://leetcode.com/Aadil_Mohammed/)
+
+---
+
 <div align="center">
-    <div>
-        <h2><img align="center"
+    <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             About me</h2>
         <ul>
@@ -80,7 +89,6 @@ I'm always excited to collaborate on:
             <li>📫 How to reach me : <img align="center" src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:edenxgt@gmail.com" target="_blank">edenxgt@gmail.com</a></li>
         </ul>
-    </div>
     <div align="center">
         <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
                 width="40" /> Languages and Tools</h2>
@@ -98,8 +106,11 @@ I'm always excited to collaborate on:
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </div>
 </div>
