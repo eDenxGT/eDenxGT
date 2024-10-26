@@ -1,22 +1,16 @@
 <div align="center">
-    <h1>Hi there, I am <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan</a> <img
-            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <h1>Hi there, I am <a href="https://mohammedrimshan.github.io/Portfolio-new/" target="_blank">Mohammed Rimshan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
-    <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>Welcome to my GitHub profile!<br />
     Hi there! My name is Mohammed Rimshan, and I'm a MERN stack developer with expertise in HTML, CSS, JavaScript, and React.js. Over the years, I've built some websites and web applications, and I'm always looking for new challenges to tackle.<br/>
     Whether you're interested in my services, have a project you'd like to discuss, or just want to say hello, please feel free to reach out to me.</p>
     <div>
-        <a href="https://www.linkedin.com/in/mohammed-rimshan-02986a225/" target="_blank"><img alt="LinkedIn"
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:rimshanshanu55@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://wa.me/8606760567/" target="_blank"><img alt="Whatsapp"
-                src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://t.me/rimshank"><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
+        <a href="https://www.linkedin.com/in/mohammed-rimshan-02986a225/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:rimshanshanu55@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://wa.me/8606760567/" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="https://t.me/rimshank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
         <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="">
         <a href="https://www.instagram.com/_rim__sha_n_/?next=%2F&hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
         <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a><br>
@@ -25,9 +19,7 @@
 </div>
 <div>
     <div>
-        <h2><img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            About me</h2>
+        <h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About me</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working as a MERN Stack Developer 🌐</li>
             <li> 💬 Ask me about React, Web Development</li>
@@ -43,8 +35,7 @@
         </ul>
     </div>
     <div align="center">
-        <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
-                width="40" /> Languages and Tools</h2>
+        <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center" width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -72,5 +63,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eDenxGT&" alt="eDenxGT" width="400" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&hide_title=true&layout=compact&count_private=true" width="400" /><br>
   <img src="https://leetcard.jacoblin.cool/eDenxGT?theme=white&font=Lexend%20Deca&extension=activity" width="400" />
-    
 </div>
