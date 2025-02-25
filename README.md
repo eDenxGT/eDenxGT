@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=eDenxGT&label=Profile%20views&color=0e75b6&style=flat" alt="eDenxGT" /></p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eDenxGT&label=Profile%20views&color=0e75b6&style=flat" alt="eDenxGT" />
   <img src="https://github-readme-stats.vercel.app/api?username=eDenxGT&show_icons=true&hide_title=true&count_private=true&hide=prs" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eDenxGT" alt="eDenxGT" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eDenxGT&hide_title=true&layout=compact&count_private=true" width="400" />
